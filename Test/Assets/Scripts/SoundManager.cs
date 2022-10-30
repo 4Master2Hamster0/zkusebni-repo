@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Pohyb : MonoBehaviour
+public class SoundManager : MonoBehaviour
 {
     void Start()
     {
@@ -9,6 +9,5 @@ public class Pohyb : MonoBehaviour
     
     void Update()
     {
-        transform.position += new Vector3(1,1,1);
     }
 }
