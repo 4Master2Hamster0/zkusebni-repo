@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SoundManager : MonoBehaviour
+public class Movement : MonoBehaviour
 {
     void Start()
     {
@@ -9,5 +9,6 @@ public class SoundManager : MonoBehaviour
     
     void Update()
     {
+        
     }
 }
